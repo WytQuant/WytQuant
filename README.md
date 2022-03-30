@@ -1,5 +1,7 @@
 ## Hi Everyone 👋
 
+> If you don't give up, you still have a chance to win.
+
 <!--
 **WytQuant/WytQuant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +24,4 @@ I believe strongly that blockchain technologies will become infrastructure in ot
 goal is a part of people who use those tools to enhance our world.
 
 #### Reach me :
-- thisi
+- LinkedIn()
