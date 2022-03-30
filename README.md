@@ -2,7 +2,7 @@
 
 > If you don't give up, you still have a chance to win.
 > 
-#### ✨ This is Wittawas
+#### ✨ This is Wittawas who love and interested in DeFi and Blockchain.
 
   I am a hardworking and highly motivated self-learning. Currently, I am also interested not only in software
 technology such as web technology but also in blockchain technology, especially smart contracts, decentralized finance.
