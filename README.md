@@ -23,5 +23,4 @@ technology such as web technology but also in blockchain technology, especially 
 I believe strongly that blockchain technologies will become infrastructure in other platforms in the future. Therefore, my
 goal is a part of people who use those tools to enhance our world.
 
-#### Reach me :
-- LinkedIn()
+#### Reach me : [LinkedIn](https://www.linkedin.com/in/wytquant/)
